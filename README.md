@@ -7,7 +7,7 @@ predictivemodeling_R book review
 - book 리뷰
 - 책 주소 : http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161750903&orderClick=LEa&Kc=
 
-- 선정 이유 : 번역서 나오기 전에 예판 같이 구매하고 읽지를 않아서. 역자 블로그를 자주 봐서.
+- 선정 이유 : 번역서 나오기 전에 예판으로 구매하고 읽지를 않아서. 역자 블로그를 자주 보고 닮고 싶은 분이기도 해서..ㅠ
 
 #### 리뷰 방법
 
